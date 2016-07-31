@@ -20,6 +20,26 @@ Then generate your new project:
 yo mdl-es6-browserify
 ```
 
+## Usage
+
+Build the JS/SASS
+
+```bash
+npm run build
+```
+
+Or watch files for changes to build
+
+```bash
+npm run build:watch
+```
+
+Preview project on localhost:8000
+
+```bash
+npm run serve
+```
+
 ## License
 
 MIT © [Joe Strong](http://www.joestrong.co.uk)
