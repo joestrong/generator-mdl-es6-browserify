@@ -1,6 +1,6 @@
 "use strict";
 
-class ApplicationController {
+export default class ApplicationController {
 
   constructor() {
 
